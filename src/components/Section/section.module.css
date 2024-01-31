@@ -18,3 +18,7 @@ flex-wrap: wrap;
 cursor: pointer;
 color: var(--color-primary);
 }
+
+.filterWrapper {
+    margin-top: 15px;
+}
